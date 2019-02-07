@@ -18,7 +18,7 @@ in directories
 
 # Index
 
-Register your file in index and set a link to your file in the appropriate category in [index.md](https://github.com/NorwegianVeterinaryInstitute/Delicious/blob/master/index.md) 
+Register your file in index and set a link to your file in the appropriate category in [Index](https://github.com/NorwegianVeterinaryInstitute/Delicious/blob/master/index.md) 
 
 ```
 Example:
