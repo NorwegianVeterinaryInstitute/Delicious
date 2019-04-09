@@ -2,6 +2,7 @@
 
 ## Cakes
 
+[Key Lime Pie](https://github.com/NorwegianVeterinaryInstitute/Delicious/blob/master/cakes/keylimepie.md)
 
 ## Bread
 
