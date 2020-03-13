@@ -26,7 +26,7 @@ NB: Sesamfrø og solsikkefrø (kan erstattes med andre frø som du liker best)
 
 **Brødet må bakes i form, da deigen blir ganske flytende**
 
-Sett alt i en olje-bakeform/brødform (litt frø sesam f.eks. på toppen)
+Sett alt i en olje-bakeform/brødform (litt frø, sesam f.eks. på toppen)
 
 **ca 35-40 min på 230 grader (minus 20 grader om man bruker varmluftsovn).
   > Jeg har bakt noen ganger på 180 grader. Det blir  bra, men tar litt lengre tid.
