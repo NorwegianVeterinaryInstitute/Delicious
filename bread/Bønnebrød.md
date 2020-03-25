@@ -5,16 +5,14 @@
 For størrelse sammenlignet med brød du kjøper i butikken:
 
 **Blande først:**
-- [ ] 400g bokhvete
-  > (kan kjøpes for ok pris i utenlandske butikker)
+- [ ] 400g bokhvete (kan kjøpes for ok pris i utenlandske butikker)
 - [ ] 80g maismel (ikke stivelse) - finmalt
-- [ ] 4 ts bakepulver (Rød boks - bikarbonat basert)
-  > topp skjeene hvis du bruker masse frø (som jeg gjør)
+- [ ] 4 ts bakepulver (Rød boks - bikarbonat basert) topp skjeene hvis du bruker 
+masse frø (som jeg gjør)
 - [ ] 2 ts salt
 
 **Blande godt sammen med resten**
-- [ ] 2 ss olivenolje
-  > (eller nøytral olje. Litt bedre med olivenolje)
+- [ ] 2 ss olivenolje (eller nøytral olje. Litt bedre med olivenolje)
 - [ ] 5 dl melk (eller soya melk)
 - [ ] 4 egg (mellomstore - 5 om små) 
 - [ ] Litt Timian
@@ -22,7 +20,7 @@ For størrelse sammenlignet med brød du kjøper i butikken:
   > ikke nødvendig etter oppskriften, men jeg har alltid brukt det. Kan også bruke andre krydder om man vil
 
 NB: Sesamfrø og solsikkefrø (kan erstattes med andre frø som du liker best)
-> brukte ca. 100g solsikkefrø og 50g sesamfrø , og det er veldig mye (så avhengig av din smak). 
+brukte ca. 100g solsikkefrø og 50g sesamfrø , og det er veldig mye (så avhengig av din smak). 
 
 **Brødet må bakes i form, da deigen blir ganske flytende**
 
