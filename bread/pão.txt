@@ -1,6 +1,6 @@
 Bread recipe for testing.
 
-flour
+gluten-free flour
 yeast
 water
 salt 
