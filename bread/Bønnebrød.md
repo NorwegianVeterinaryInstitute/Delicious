@@ -32,6 +32,4 @@ Sett alt i en olje-bakeform/brødform (litt frø, sesam f.eks. på toppen)
   
 La kjøle litt ned og ta bort formen, og sett på rist til at det er avkjølt.
 
-Håper det smaker. 
 
-Eve
