@@ -36,7 +36,7 @@ edges. Bake at 175 degrees C for 10 - 12 minutes, and cool. (I usually
 press it down a bit before it cools completely, as it usually puffs up 
 quite a bit).
 
-Turn the oven down to 150 degrees C (not Fahrenheit :-).
+Turn the oven down to 150 degrees C (not F :-).
 
 Whip egg yolks and condensed milk together, and add the lime juice and 
 zest. Mix well, the mixture should be even and smooth. Pour the mixture 
